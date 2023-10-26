@@ -1,0 +1,77 @@
+.syllabus-analysis {
+  background-color: white;
+  padding: 30px 30px;
+  border-radius: 10px;
+  border: 1px solid #EBF0F5;
+  margin-right: 10px;
+width: 386px;
+height: 429px;
+flex-shrink: 0;
+}
+.heading {
+  color: var(--primary-text, #1E272E);
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: -0.32px;
+  padding-bottom: 20px;
+}
+
+.blue-text {
+  color: blue;
+  font-weight: 700;
+}
+
+.orange-text {
+  color: orange;
+  font-weight: 700;
+
+}
+
+.red-text {
+  color: red;
+  font-weight: 700;
+
+}
+
+.green-text {
+  color: green;
+  font-weight: 700;
+
+}
+.row {
+
+  /* width: 1440px; */
+  height: 80px;
+}
+
+.left {
+  flex: 1;
+  color: #333;
+}
+
+.subject {
+  font-size: 15px;
+  margin-bottom: 12px;
+}
+
+.right {
+  gap: 12px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+/* 
+.progress-bar {
+  height: 20px;
+  border-radius: 10px;
+  width: 100%;
+} */
+
+.progress-container {
+  color: #333;
+  text-align: center;
+}

@@ -1,0 +1,31 @@
+.comparisonAnalysis {
+  background-color: white;
+  padding: 30px 30px;
+  border-radius: 10px;
+  border: 1px solid #ebf0f5;
+  margin-right: 10px;
+ height: 550px;
+}
+.text-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.ratio {
+  color: #36a2eb;
+  font-weight: 700;
+}
+
+.score-info {
+  font-size: 14px;
+  color: gray;
+  font-weight: 600;
+  padding-bottom: 10px;
+
+}
+.score {
+  font-size: 14px;
+  color: gray;
+  font-weight: 700;
+
+}
